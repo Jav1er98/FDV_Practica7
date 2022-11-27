@@ -41,7 +41,7 @@
       
       ![Paso 8](gifs/gif1.gif)
       
-6. Incorpora elementos físicos en tu escena que respondan a las siguientes restricciones:
+7. Incorpora elementos físicos en tu escena que respondan a las siguientes restricciones:
 
     1. Objeto estático que ejerce de barrera infranqueable
       
